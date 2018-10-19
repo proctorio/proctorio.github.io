@@ -56,13 +56,15 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 ## 8. Test 
 ## Before
 
+   * Create a test quiz to ensure all changes were applied properly. 
+   * We suggest attempting to edit the quiz in another browser and trying to access the exam as a student without the extension installed.
+   
+   
 ![Before](http://cdn.proctorio.net/guides/images/BeforeJS.png)
 
 ## After
 
 ![After](http://cdn.proctorio.net/guides/images/AfterJS.png)
-   * Create a test quiz to ensure all changes were applied properly. 
-   * We suggest attempting to edit the quiz in another browser and trying to access the exam as a student without the extension installed.
 
 # Support
 
