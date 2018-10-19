@@ -51,6 +51,8 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 
 ## 7. Apply Theme
 
+![apply](http://cdn.proctorio.net/guides/images/applytheme.png)
+
 * To apply your theme to your account, click the "Apply theme" button.
 
 ## 8. Test 
