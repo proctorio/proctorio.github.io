@@ -9,7 +9,8 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 
 <p align="center">
   <img />
-</p>![github gif](http://cdn.proctorio.net/guides/images/Global-JavaScript-GitHub-GIF.gif)
+</p>
+![github gif](http://cdn.proctorio.net/guides/images/Global-JavaScript-GitHub-GIF.gif)
 
 ## Key Features
 * Simple integration into your institution’s learning management system.
