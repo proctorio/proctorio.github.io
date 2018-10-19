@@ -4,7 +4,7 @@
 
 Gone are the days of broken exams and test taker access codes. This open source script makes our seamless learning management system integration even stronger by preventing two of the biggest pain points. Once enabled, test authors will not be able to edit Proctorio tests and test takers cannot attempt to begin a test without the correct browser extension installed. Help us make Proctorio smarter and reduce headaches by installing this simple one line of code!
 
-[gif]
+![github gif](http://cdn.proctorio.net/guides/images/Global-JavaScript-GitHub-GIF.gif)
 
 ## Why Open Source?
 At Proctorio, we have the utmost respect for security and privacy. We chose to make our javascript open source to protect your information and ensure that you remain in complete control. Thanks to this transparent approach, you can implement our small change without surrendering access or manipulating critical learning management system code. You have the choice to use the minified or full version and the files are served directly from GitHub for extra trust and security. 
