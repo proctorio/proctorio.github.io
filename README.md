@@ -50,7 +50,7 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
    * If you edited a previously saved theme, saving the theme overwrites the previous version of the theme and uses the same theme name.
 
 ## 7. Apply Theme
-[Screenshot]
+
 * To apply your theme to your account, click the "Apply theme" button.
 
 ## 8. Test 
