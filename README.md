@@ -7,9 +7,6 @@ Gone are the days of broken exams and test taker access codes. This open source 
 ## Why Open Source?
 At Proctorio, we have the utmost respect for security and privacy. We chose to make our javascript open source to protect your information and ensure that you remain in complete control. Thanks to this transparent approach, you can implement our small change without surrendering access or manipulating critical learning management system code. You have the choice to use the minified or full version and the files are served directly from GitHub for extra trust and security. 
 
-<p align="center">
-  <img />
-</p>
 ![github gif](http://cdn.proctorio.net/guides/images/Global-JavaScript-GitHub-GIF.gif)
 
 ## Key Features
