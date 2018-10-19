@@ -16,7 +16,6 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 # How to Install - Canvas
 
 ## 1. Download File
-   * [screenshot]
    * Go to [Insert site here] and download the Global Javascript file.
 
 ## 2. Open Account
@@ -36,9 +35,12 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 ![Upload](http://cdn.proctorio.net/guides/images/Upload.png)
 * Once in the Theme Editor, select the Upload tab. 
 * Locate fields for CSS/Javascript files for the Canvas desktop application.
+
 ![Javascript](http://cdn.proctorio.net/guides/images/javascript.png)
 
 * Click Select under JavaScript file and locate the file on your computer.
+![Select File](http://cdn.proctorio.net/guides/images/SelectJavaScript.png)
+
 > Note: If a file is already in place, combine the existing file with the Proctorio file in a text editor and re-upload to the Javascript section.
 
 ## 6. Save Theme 
@@ -51,7 +53,13 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 * To apply your theme to your account, click the "Apply theme" button.
 
 ## 8. Test
-[Screenshot - before/after]
+# Before
+
+![Before](http://cdn.proctorio.net/guides/images/BeforeJS.png)
+
+# After
+
+![After](http://cdn.proctorio.net/guides/images/AfterJS.png)
    * Create a test quiz to ensure all changes were applied properly. 
    * We suggest attempting to edit the quiz in another browser and trying to access the exam as a student without the extension installed.
 
