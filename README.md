@@ -39,6 +39,7 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 ![Javascript](http://cdn.proctorio.net/guides/images/javascript.png)
 
 * Click Select under JavaScript file and locate the file on your computer.
+
 ![Select File](http://cdn.proctorio.net/guides/images/SelectJavaScript.png)
 
 > Note: If a file is already in place, combine the existing file with the Proctorio file in a text editor and re-upload to the Javascript section.
@@ -52,12 +53,12 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 [Screenshot]
 * To apply your theme to your account, click the "Apply theme" button.
 
-## 8. Test
-# Before
+## 8. Test 
+## Before
 
 ![Before](http://cdn.proctorio.net/guides/images/BeforeJS.png)
 
-# After
+## After
 
 ![After](http://cdn.proctorio.net/guides/images/AfterJS.png)
    * Create a test quiz to ensure all changes were applied properly. 
