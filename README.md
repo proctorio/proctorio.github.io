@@ -16,7 +16,7 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 # How to Install - Canvas
 
 ## 1. Download File
-   * Go to [Insert site here] and download the Global Javascript file.
+   * Go to [here](https://raw.githubusercontent.com/proctorio/proctorio.github.io/master/snippets/canvas_global_minified.js) and right click "Save as..." to download the Global Javascript file.
 
 ## 2. Open Account
 ![Admin picture](http://cdn.proctorio.net/guides/images/Admin.png)
@@ -42,7 +42,11 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 
 ![Select File](http://cdn.proctorio.net/guides/images/SelectJavaScript.png)
 
-> Note: If a file is already in place, combine the existing file with the Proctorio file in a text editor and re-upload to the Javascript section.
+> Note: If a file is already in place, combine the existing file with the Proctorio file in a text editor and re-upload to the Javascript section. You can also simply add this line to your existing javascript file:
+
+```javascript
+(function(){var a=document.createElement("script"),b=document.head||document.getElementsByTagName("head")[0];a.onload=function(){b.removeChild(a)};a.src="//cdn.proctorio.net/snippets/gbl/canvas-global-embed.min.js";b.appendChild(a)})();
+```
 
 ## 6. Save Theme 
 ![Save](http://cdn.proctorio.net/guides/images/Save.png)
