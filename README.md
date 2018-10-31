@@ -16,6 +16,7 @@ At Proctorio, we have the utmost respect for security and privacy. We chose to m
 # How to Install - Canvas
 
 ## 1. Download File
+   * We recommend following our CDN URL to download the Global Javascript file opposed to our github raw URL. When our DNS provider detects the github cdn (Fastly) is down, it will automatically switch to the backup CDN served by Microsoft to guarantee uptime. The github raw version is provided below, but is not recommended. 
    * Go to [here](https://raw.githubusercontent.com/proctorio/proctorio.github.io/master/snippets/canvas_global_minified.js) and right click "Save as..." to download the Global Javascript file.
 
 ## 2. Open Account
