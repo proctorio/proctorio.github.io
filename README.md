@@ -71,7 +71,10 @@ We recommend using our CDN URL (https://cdn.proctorio.net/) to serve the file as
 
 ![Before](https://cdn.proctorio.net/guides/images/BeforeJS.png)
 
+
 ## After
+* The blue "Take the Quiz" button will disappear under the prompt to download Google Chrome.
+* If the JavaScript is installed at the root account level in Canvas and a course doesn't have the Proctorio LTI it will run but nothing will happen. 
 
 ![After](https://cdn.proctorio.net/guides/images/AfterJS.png)
 
