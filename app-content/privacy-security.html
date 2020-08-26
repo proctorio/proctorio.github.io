@@ -17,7 +17,7 @@
 		@media (prefers-color-scheme: dark) {
 			:root {
 				--color: white;
-				--bg-color: black;
+				--bg-color: #1C1C1E;
 				--link-color: #3D9BFF;
 				--focus-bg: rgba(255,255,255,0.15);
 			}
@@ -28,6 +28,16 @@
 			color: var(--color);
 			background-color: var(--bg-color);
 			padding-bottom: 1rem;
+			margin: 0;
+			padding: 0;
+		}
+
+		body {
+			padding: 18px;
+		}
+
+		body > *:first-child {
+			margin-top: 0;
 		}
 
 		a {
