@@ -1,0 +1,18 @@
+trigger:
+  branches:
+    include:
+    - main
+
+resources:
+  repositories:
+    - repository: templates
+      type: git
+      name: Plumbing/core-templates
+    - repository: proctorio.github.io
+      type: git
+      name: Open/proctorio.github.io
+
+stages:
+- template: stages/sync/sync.yml@templates  # Template reference
+  parameters:
+    checkout: proctorio.github.io
